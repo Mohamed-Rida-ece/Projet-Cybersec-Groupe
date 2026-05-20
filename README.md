@@ -18,4 +18,4 @@ Nous allons expliquer ce que c'est, comment ça fonctionne et comment travailler
 
 ## Lien GitHub
 
-https://github.com/ton-pseudo/Projet-Cybersec-Groupe
+https://github.com/Mohamed-Rida-ece/Projet-Cybersec-Groupe
