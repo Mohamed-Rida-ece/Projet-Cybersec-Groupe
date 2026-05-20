@@ -40,9 +40,8 @@ Projet-GroupeN/
 
 ## 🔗 Liens utiles
 
--  Dépôt GitHub du projet : *(lien à compléter)*
--  Dépôt de cours : [Cybersec-projets](https://github.com/lien-du-prof)
-
+-  Dépôt GitHub du projet : https://github.com/Mohamed-Rida-ece/Projet-Cybersec-Groupe
+-  Dépôt de cours : https://github.com/bosjr/Cybersec-projets
 ---
 
 ##  Répartition du travail
