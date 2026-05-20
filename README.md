@@ -1,6 +1,6 @@
-# 🔐 Projet Cybersécurité — Git & GitHub
+#  Projet Cybersécurité — Git & GitHub
 
-## 👥 Groupe
+##  Groupe
 
 | Nom | Rôle |
 |-----|------|
@@ -10,13 +10,13 @@
 
 ---
 
-## 📌 Sujet choisi : Git & GitHub
+##  Sujet choisi : Git & GitHub
 
 Ce projet présente les bases de **Git** (gestion de versions) et **GitHub** (collaboration en ligne), à travers des explications, des exemples pratiques et une démonstration concrète de workflow collaboratif.
 
 ---
 
-## 🎯 Objectifs du projet
+##  Objectifs du projet
 
 - Comprendre ce qu'est Git et pourquoi on l'utilise
 - Apprendre les commandes essentielles (`clone`, `commit`, `push`, `pull`)
@@ -25,7 +25,7 @@ Ce projet présente les bases de **Git** (gestion de versions) et **GitHub** (co
 
 ---
 
-## 📁 Structure du dépôt
+##  Structure du dépôt
 
 ```
 Projet-GroupeN/
@@ -40,12 +40,12 @@ Projet-GroupeN/
 
 ## 🔗 Liens utiles
 
-- 📂 Dépôt GitHub du projet : *(lien à compléter)*
-- 📚 Dépôt de cours : [Cybersec-projets](https://github.com/lien-du-prof)
+-  Dépôt GitHub du projet : *(lien à compléter)*
+-  Dépôt de cours : [Cybersec-projets](https://github.com/lien-du-prof)
 
 ---
 
-## 📅 Répartition du travail
+##  Répartition du travail
 
 | Tâche | Responsable |
 |-------|-------------|
