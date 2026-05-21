@@ -1,6 +1,6 @@
 # Git & GitHub
 
-## Notre groupe
+## Notre groupe : Groupe 4
 
 - Mohamed-Rida (chef de groupe)
 - Youssef
